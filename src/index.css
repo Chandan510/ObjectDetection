@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@font-face{
+  font-family: "inter";
+  src:local("Inter-Light.otf"),
+      url('./assets/fonts/Inter-SemiBold.otf') ;
+  font-weight: 700;
+  font-style:normal;
+}
+
+@font-face{
+  font-family: "inter-light";
+  src:local("Inter-Light.otf"),
+      url('./assets/fonts/Inter-Light.otf') ;
+  font-weight:300;
+  font-style:normal;
+}
+
